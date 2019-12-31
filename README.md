@@ -1,4 +1,4 @@
-Meine Strategie:
+**Strategie**
 Ich habe ein NAS mit einer NFS-Freigabe Backup. Hier haben die zu sichernden Host's ein Verzeichnis mit ihren Namen.
 In diesen Verzeichniss speichern Sie ihre Backups. Was und wie Gesichert wird ist für jeden Host indivituell. 
 Die Backups von Fileserver und Desktop syncronisiert mein NAS mit meinen Onlinspeicher.
